@@ -147,7 +147,7 @@ notebooks/artifacts/*
 # Spyder project settings
 .spyderproject
 .spyproject
-
+artifacts/*
 # Rope project settings
 .ropeproject
 
